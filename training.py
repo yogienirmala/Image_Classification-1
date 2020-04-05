@@ -26,7 +26,7 @@ train_data_path = 'data_tangan/rps_train'
 validation_data_path = 'data_tangan/rps_test'
 
 """
-Parameters
+Parameters Image Classification
 """
 img_width, img_height = 150, 150
 steps_per_epoch = 2520/32
